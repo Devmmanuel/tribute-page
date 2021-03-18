@@ -1,0 +1,11 @@
+#img-div {
+    display: flex;
+    justify-content: center;
+}
+
+#image {
+	display: block;
+	max-width: 100%;
+	border-style: groove;
+	border-color: silver;
+}
