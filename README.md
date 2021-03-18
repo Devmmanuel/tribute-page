@@ -15,5 +15,4 @@ contiene contenido textual describiendo la imagen mostrada en img-div.
 - **Historia de usuario #8:** El elemento img debería cambiar de tamaño de forma responsiva, en relación al ancho de su elemento padre, sin exceder su tamaño original.
 - **Historia de usuario #9:** El elemento img debería estar centrado dentro de su elemento padre.
 
-### Proyecto en Vivo 
-[tribute-page](https://devmmanuel.github.io/tribute-page/)
+### Proyecto en vivo [aquí](https://devmmanuel.github.io/tribute-page/)
