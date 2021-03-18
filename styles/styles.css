@@ -1,6 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap');
+
+#main {
+    font-family: "Fira Code";
+}
+
+#title {
+    text-align: center;
+    font-weight: 700;
+}
+
 #img-div {
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
 
 #image {
@@ -8,4 +21,40 @@
 	max-width: 100%;
 	border-style: groove;
 	border-color: silver;
+}
+
+#img-caption {
+    text-align: center;
+    font-style: oblique;
+}
+
+#tribute-info {
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: justify;
+}
+
+#tribute-link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration-line: none;
+}
+
+h2 {
+    font-weight: 600;
+}
+
+h3 {
+    font-weight: 500;
+}
+
+p {
+    font-weight: 400;
+}
+
+@media (min-width: 1050px) {
+	#image {
+		width: 2000px;
+	}
 }
