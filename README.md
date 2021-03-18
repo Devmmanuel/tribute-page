@@ -1,5 +1,5 @@
 # tribute-page
-Project #1 of Responsive Web Design Certification by [FreeCodeCamp](FreeCodeCamp.org)
+Project #1 of Responsive Web Design Certification by [FreeCodeCamp](https://FreeCodeCamp.org)
 
 ## Completa las siguientes historias de usuario y consigue aprobar todos los tests. Dale tu propio estilo personal.  
 
