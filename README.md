@@ -14,3 +14,5 @@ contiene contenido textual describiendo la imagen mostrada en img-div.
 - **Historia de usuario #7:** Debería ver un elemento a con un respectivo id="tribute-link", que enlaza a un sitio externo conteniendo información adicional sobre el tema de la página tributo. SUGERENCIA: Debes dar a tu elemento un atributo target y establecerlo como _blank para que tu enlace se abra en una nueva pestaña (p. ej. target="_blank" ).
 - **Historia de usuario #8:** El elemento img debería cambiar de tamaño de forma responsiva, en relación al ancho de su elemento padre, sin exceder su tamaño original.
 - **Historia de usuario #9:** El elemento img debería estar centrado dentro de su elemento padre.
+
+## Proyecto en Vivo [tribute-page](https://devmmanuel.github.io/tribute-page/)
