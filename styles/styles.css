@@ -31,8 +31,8 @@
 #tribute-info {
     padding-left: 3%;
     padding-right: 3%;
-    padding-bottom: 10%;
-    padding-top: 10%;
+    padding-bottom: 8%;
+    padding-top: 5%;
     text-align: justify;
 }
 
@@ -45,17 +45,15 @@
 
 h2 {
     font-weight: 600;
-    padding-bottom: 2%;
 }
 
 h3 {
     font-weight: 500;
-    padding-bottom: .5%;
 }
 
 p {
     font-weight: 400;
-    padding-bottom: 10%;
+    padding-bottom: 2%;
 }
 
 @media (min-width: 1050px) {
